@@ -16,11 +16,11 @@
 ## 소스 코드 목록
 아래 제목을 클릭하면 해당 강의의 소스코드로 이동합니다.
 
-1. 🖼 Summer - 사진 필터 앱
-2. 🧑‍🎓 Focus - 집중을 위한 앱
-3. 📆 Days - D-Day 앱
-4. 🌦 Forecast - 일기예보 앱
-5. 📸 Fastagram - 소셜 네트워크 앱
+1. [🖼 Summer - 사진 필터 앱](https://github.com/iwill-hwang/fastcampus-summer)
+2. [🧑‍🎓 Focus - 집중을 위한 앱](https://github.com/iwill-hwang/fastcampus-focus)
+3. [📆 Days - D-Day 앱](https://github.com/iwill-hwang/fastcampus-days)
+4. [🌦 Forecast - 일기예보 앱](https://github.com/iwill-hwang/fastcampus-days)
+5. [📸 Fastagram - 소셜 네트워크 앱](https://github.com/iwill-hwang/fastcampus-fastgram)
 
 ## 개발자의 대표 앱
 
