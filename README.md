@@ -21,7 +21,7 @@
 1. [🖼 Summer - 사진 필터 앱](https://github.com/iwill-hwang/fastcampus-summer)
 2. [🧑‍🎓 Focus - 집중을 위한 앱](https://github.com/iwill-hwang/fastcampus-focus)
 3. [📆 Days - D-Day 앱](https://github.com/iwill-hwang/fastcampus-days)
-4. [🌦 Forecast - 일기예보 앱](https://github.com/iwill-hwang/fastcampus-days)
+4. [🌦 Forecast - 일기예보 앱](https://github.com/iwill-hwang/fastcampus-forecast)
 5. [📸 Fastagram - 소셜 네트워크 앱](https://github.com/iwill-hwang/fastcampus-fastgram)
 
 <br/>
